@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Food Order">56bf28922f9a111065cdfe1df699b698</application>
+        <filter/>
+        <name>Food Orders</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_882924_eric_test.food_order_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>luckhoi56</sys_created_by>
+        <sys_created_on>2022-10-04 15:30:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e2bf28922f9a111065cdfe1df699b6b4</sys_id>
+        <sys_name>Food Orders</sys_name>
+        <sys_package display_value="eric test" source="x_882924_eric_test">664e93002f7d111065cdfe1df699b632</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="eric test">664e93002f7d111065cdfe1df699b632</sys_scope>
+        <sys_update_name>sys_ui_module_e2bf28922f9a111065cdfe1df699b6b4</sys_update_name>
+        <table>x_882924_eric_test_food_order</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
